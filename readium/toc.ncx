@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="cs">
+  <head>
+    <meta content="386056d4-b46c-4da7-8c54-39beac83177e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.23)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Hrdý Budžes</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="f461774b-db62-4319-96ba-a95244b59316" playOrder="1">
+      <navLabel>
+        <text>Start</text>
+      </navLabel>
+      <content src="10073_split_000.html"/>
+    </navPoint>
+    <navPoint id="87f40006-df53-49dd-baf9-20f00afd287b" playOrder="2">
+      <navLabel>
+        <text>Jak byla Olinka mrtvá</text>
+      </navLabel>
+      <content src="10073_split_003.html"/>
+    </navPoint>
+    <navPoint id="f340c44a-bd19-4770-9f81-cf5afaaf409f" playOrder="3">
+      <navLabel>
+        <text>Jak byl Pepíček v pekle</text>
+      </navLabel>
+      <content src="10073_split_004.html"/>
+    </navPoint>
+    <navPoint id="a6a06ded-e29f-483e-a2f4-b14589ad46c5" playOrder="4">
+      <navLabel>
+        <text>Jak byl kníže Přemysl s Husákem v Čáslavi na záchodě</text>
+      </navLabel>
+      <content src="10073_split_005.html"/>
+    </navPoint>
+    <navPoint id="fe8ad18e-bf9b-45d1-a69f-135a1e184691" playOrder="5">
+      <navLabel>
+        <text>Jak mě málem sežrali vlci</text>
+      </navLabel>
+      <content src="10073_split_006.html"/>
+    </navPoint>
+    <navPoint id="0f4a639b-089a-4adc-8801-77935ca8d1da" playOrder="6">
+      <navLabel>
+        <text>Jak jsem byla zblí zka u shnilýho vrabce</text>
+      </navLabel>
+      <content src="10073_split_007.html"/>
+    </navPoint>
+    <navPoint id="a97a8620-ac2c-4b3c-9325-78839dd2f3c2" playOrder="7">
+      <navLabel>
+        <text>Jak se splašili sloni</text>
+      </navLabel>
+      <content src="10073_split_008.html"/>
+    </navPoint>
+    <navPoint id="001d3900-6c6a-4ae9-ad99-c49d2bf588a8" playOrder="8">
+      <navLabel>
+        <text>Jak jsem pošlapala mravence</text>
+      </navLabel>
+      <content src="10073_split_009.html"/>
+    </navPoint>
+    <navPoint id="e4d4e806-ddf4-48d5-9f75-7fa4d64fc816" playOrder="9">
+      <navLabel>
+        <text>Jak jsme vyhrabali partyzána</text>
+      </navLabel>
+      <content src="10073_split_010.html"/>
+    </navPoint>
+    <navPoint id="3d239997-562f-4f5f-8a3d-95822b0fe1ee" playOrder="10">
+      <navLabel>
+        <text>Jak jsme měli k obědu vnitřnosti</text>
+      </navLabel>
+      <content src="10073_split_011.html"/>
+    </navPoint>
+    <navPoint id="25072984-d120-4793-b473-b2dd79980768" playOrder="11">
+      <navLabel>
+        <text>Jak začalo to spiknutí</text>
+      </navLabel>
+      <content src="10073_split_012.html"/>
+    </navPoint>
+    <navPoint id="fb2ec181-42bd-47cb-9ec7-d47281096976" playOrder="12">
+      <navLabel>
+        <text>Jak jsem si našla kamarády</text>
+      </navLabel>
+      <content src="10073_split_013.html"/>
+    </navPoint>
+    <navPoint id="d75949b2-3733-405f-b72d-74f89f3b2980" playOrder="13">
+      <navLabel>
+        <text>Jak Berenčičová skočila z okna</text>
+      </navLabel>
+      <content src="10073_split_014.html"/>
+    </navPoint>
+    <navPoint id="b1add2f9-3974-49e2-8760-a91ebb5c6921" playOrder="14">
+      <navLabel>
+        <text>Jak mě zradila Kačenka</text>
+      </navLabel>
+      <content src="10073_split_015.html"/>
+    </navPoint>
+    <navPoint id="2324e42d-7630-4e20-a901-b04cec0f250d" playOrder="15">
+      <navLabel>
+        <text>Jak mě nevzali do filmu a co se stalo šnekům</text>
+      </navLabel>
+      <content src="10073_split_016.html"/>
+    </navPoint>
+    <navPoint id="767fd7af-e7f0-4cf0-a1f9-64ce70858b44" playOrder="16">
+      <navLabel>
+        <text>Jak mě sežrali vlci</text>
+      </navLabel>
+      <content src="10073_split_017.html"/>
+    </navPoint>
+    <navPoint id="b32a08db-a152-4480-9a82-a5a346bd8137" playOrder="17">
+      <navLabel>
+        <text>Jak jsem nedostala slepák</text>
+      </navLabel>
+      <content src="10073_split_018.html"/>
+    </navPoint>
+    <navPoint id="c1787863-ec40-4f12-afee-65e927c83e80" playOrder="18">
+      <navLabel>
+        <text>Jak si pani Ňujorková vykloubila ruku</text>
+      </navLabel>
+      <content src="10073_split_019.html"/>
+    </navPoint>
+    <navPoint id="14deceff-23e1-42b9-8ce5-ecd40374a86d" playOrder="19">
+      <navLabel>
+        <text>Jak Boženku Veverkovou snědly němkyně</text>
+      </navLabel>
+      <content src="10073_split_020.html"/>
+    </navPoint>
+    <navPoint id="6463b439-9b7d-44fe-81a1-64d1f765cba8" playOrder="20">
+      <navLabel>
+        <text>Jak jsme měli na schodech krev</text>
+      </navLabel>
+      <content src="10073_split_021.html"/>
+    </navPoint>
+    <navPoint id="0c2606de-9ce1-45f2-847c-0985f65b0db3" playOrder="21">
+      <navLabel>
+        <text>Jak to všechno dobře dopadlo</text>
+      </navLabel>
+      <content src="10073_split_022.html"/>
+    </navPoint>
+    <navPoint id="5335c8ef-e54a-4f1c-a152-1df60d3f4116" playOrder="22">
+      <navLabel>
+        <text>Irena Dousková</text>
+      </navLabel>
+      <content src="10073_split_023.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,214 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Hrdý Budžes",
+      "identifier": "386056d4-b46c-4da7-8c54-39beac83177e",
+      "author": "Irena Dousková",
+      "publisher": "Druhé město",
+      "modified": "2021-09-21T12:42:00.813Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "titlepage.md",
+        "xhtml": "titlepage.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_000.md",
+        "xhtml": "10073_split_000.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_001.md",
+        "xhtml": "10073_split_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_002.md",
+        "xhtml": "10073_split_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_003.md",
+        "xhtml": "10073_split_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_004.md",
+        "xhtml": "10073_split_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_005.md",
+        "xhtml": "10073_split_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_006.md",
+        "xhtml": "10073_split_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_007.md",
+        "xhtml": "10073_split_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_008.md",
+        "xhtml": "10073_split_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_009.md",
+        "xhtml": "10073_split_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_010.md",
+        "xhtml": "10073_split_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_011.md",
+        "xhtml": "10073_split_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_012.md",
+        "xhtml": "10073_split_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_013.md",
+        "xhtml": "10073_split_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_014.md",
+        "xhtml": "10073_split_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_015.md",
+        "xhtml": "10073_split_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_016.md",
+        "xhtml": "10073_split_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_017.md",
+        "xhtml": "10073_split_017.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_018.md",
+        "xhtml": "10073_split_018.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_019.md",
+        "xhtml": "10073_split_019.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_020.md",
+        "xhtml": "10073_split_020.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_021.md",
+        "xhtml": "10073_split_021.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_022.md",
+        "xhtml": "10073_split_022.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "10073_split_023.md",
+        "xhtml": "10073_split_023.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/png",
+        "href": "9498-1.png"
+      },
+      {
+        "type": "image/jpeg",
+        "height": 1186,
+        "width": 796,
+        "rel": "cover",
+        "href": "cover.jpg"
+      },
+      {
+        "type": "text/css",
+        "href": "stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "toc.ncx"
+      }
+    ],
+    "classes": [
+      "Apple-style-span",
+      "Apple-style-span1",
+      "c",
+      "c1",
+      "c10",
+      "c11",
+      "c12",
+      "c2",
+      "c3",
+      "c4",
+      "c5",
+      "c6",
+      "c7",
+      "c8",
+      "c9",
+      "calibre1",
+      "calibre2",
+      "calibre3",
+      "pagebreak",
+      "toc",
+      "toc1",
+      "toc2",
+      "toc3"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "hrdy-budzes"
+    },
+    "generatedAt": 1632228121172
+  }
+}

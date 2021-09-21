@@ -1,0 +1,235 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Hrdý Budžes",
+    "identifier": "386056d4-b46c-4da7-8c54-39beac83177e",
+    "author": "Irena Dousková",
+    "publisher": "Druhé město",
+    "language": "cs",
+    "modified": "2021-09-21T12:42:00.813Z",
+    "description": "Chcete se zasmát, zastydět a zavzpomínat? Prvními roky husákovské normalizace, tak jak se v řadě komických i méně veselých příhod a situací promítala do života dětí i dospělých z jednoho okresního města, nás v této knize provází bystrá, leč přiměřeně naivní žákyně druhé třídy ZDŠ v Ničíně.",
+    "subject": "subject",
+    "calibre:timestamp": "2010-12-10T13:07:45.646000+00:00",
+    "cover": "cover"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "titlepage.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_000.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "10073_split_023.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "href": "9498-1.png"
+    },
+    {
+      "type": "image/jpeg",
+      "height": 1186,
+      "width": 796,
+      "rel": "cover",
+      "href": "cover.jpg"
+    },
+    {
+      "type": "text/css",
+      "href": "stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "toc.ncx"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Start",
+      "href": "10073_split_000.html"
+    },
+    {
+      "title": "Jak byla Olinka mrtvá",
+      "href": "10073_split_003.html"
+    },
+    {
+      "title": "Jak byl Pepíček v pekle",
+      "href": "10073_split_004.html"
+    },
+    {
+      "title": "Jak byl kníže Přemysl s Husákem v Čáslavi na záchodě",
+      "href": "10073_split_005.html"
+    },
+    {
+      "title": "Jak mě málem sežrali vlci",
+      "href": "10073_split_006.html"
+    },
+    {
+      "title": "Jak jsem byla zblí zka u shnilýho vrabce",
+      "href": "10073_split_007.html"
+    },
+    {
+      "title": "Jak se splašili sloni",
+      "href": "10073_split_008.html"
+    },
+    {
+      "title": "Jak jsem pošlapala mravence",
+      "href": "10073_split_009.html"
+    },
+    {
+      "title": "Jak jsme vyhrabali partyzána",
+      "href": "10073_split_010.html"
+    },
+    {
+      "title": "Jak jsme měli k obědu vnitřnosti",
+      "href": "10073_split_011.html"
+    },
+    {
+      "title": "Jak začalo to spiknutí",
+      "href": "10073_split_012.html"
+    },
+    {
+      "title": "Jak jsem si našla kamarády",
+      "href": "10073_split_013.html"
+    },
+    {
+      "title": "Jak Berenčičová skočila z okna",
+      "href": "10073_split_014.html"
+    },
+    {
+      "title": "Jak mě zradila Kačenka",
+      "href": "10073_split_015.html"
+    },
+    {
+      "title": "Jak mě nevzali do filmu a co se stalo šnekům",
+      "href": "10073_split_016.html"
+    },
+    {
+      "title": "Jak mě sežrali vlci",
+      "href": "10073_split_017.html"
+    },
+    {
+      "title": "Jak jsem nedostala slepák",
+      "href": "10073_split_018.html"
+    },
+    {
+      "title": "Jak si pani Ňujorková vykloubila ruku",
+      "href": "10073_split_019.html"
+    },
+    {
+      "title": "Jak Boženku Veverkovou snědly němkyně",
+      "href": "10073_split_020.html"
+    },
+    {
+      "title": "Jak jsme měli na schodech krev",
+      "href": "10073_split_021.html"
+    },
+    {
+      "title": "Jak to všechno dobře dopadlo",
+      "href": "10073_split_022.html"
+    },
+    {
+      "title": "Irena Dousková",
+      "href": "10073_split_023.html"
+    }
+  ],
+  "landmarks": [
+    {
+      "title": "Cover",
+      "href": "titlepage.xhtml"
+    }
+  ]
+}

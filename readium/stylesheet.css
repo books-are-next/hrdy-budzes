@@ -1,0 +1,165 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.Apple-style-span {
+    font-family: "Times New Roman", serif;
+    font-size: 1.29412em
+    }
+.Apple-style-span1 {
+    font-family: "Times New Roman", serif;
+    font-size: 0.70588em
+    }
+.c {
+    display: block;
+    text-align: center
+    }
+.c1 {
+    height: auto;
+    width: auto
+    }
+.c10 {
+    font-family: Times New Roman, serif;
+    font-size: 0.70588em;
+    font-style: italic
+    }
+.c11 {
+    display: block;
+    font-family: Times New Roman, serif;
+    font-size: 0.70588em;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.c12 {
+    display: block;
+    font-family: Times New Roman, serif;
+    font-size: 0.70588em;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.c2 {
+    display: block;
+    font-family: Times New Roman, serif;
+    font-size: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.c3 {
+    display: block;
+    font-family: Times New Roman, serif;
+    font-size: 1.29412em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.c4 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.c5 {
+    display: block;
+    font-family: Times New Roman, serif;
+    font-size: 1.17647em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.c6 {
+    display: block;
+    font-family: Times New Roman, serif;
+    font-size: 0.79412em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.c7 {
+    display: block;
+    font-family: Times New Roman, serif;
+    font-size: 0.70588em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.c8 {
+    display: block;
+    font-family: Times New Roman, serif;
+    font-size: 0.70588em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.c9 {
+    font-family: Times New Roman, serif;
+    font-size: 0.70588em
+    }
+.calibre {
+    display: block;
+    font-size: 1.41667em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    page-break-before: always
+    }
+.calibre1 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre2 {
+    display: block
+    }
+.calibre3 {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline
+    }
+.pagebreak {
+    display: block;
+    page-break-after: always
+    }
+.toc {
+    display: none
+    }
+.toc1 {
+    display: block;
+    font-family: Times New Roman, serif;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: left
+    }
+.toc2 {
+    display: block;
+    font-family: Times New Roman, serif;
+    font-size: 1em;
+    font-weight: bold
+    }
+.toc3 {
+    display: block;
+    font-family: Times New Roman, serif;
+    font-size: 1em;
+    text-align: center
+    }
