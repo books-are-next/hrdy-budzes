@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-e0964e5';
+const CACHE = 'cache-357c05c';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./10073_split_000.html","./10073_split_001.html","./10073_split_002.html","./10073_split_003.html","./10073_split_004.html","./10073_split_005.html","./10073_split_006.html","./10073_split_007.html","./10073_split_008.html","./10073_split_009.html","./10073_split_010.html","./10073_split_011.html","./10073_split_012.html","./10073_split_013.html","./10073_split_014.html","./10073_split_015.html","./10073_split_016.html","./10073_split_017.html","./10073_split_018.html","./10073_split_019.html","./10073_split_020.html","./10073_split_021.html","./10073_split_022.html","./10073_split_023.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./titlepage.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/9498-1.png","./resources/cover.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./10073_split_001.html","./10073_split_002.html","./10073_split_000.html","./10073_split_003.html","./10073_split_004.html","./10073_split_005.html","./10073_split_006.html","./10073_split_007.html","./10073_split_008.html","./10073_split_009.html","./10073_split_010.html","./10073_split_011.html","./10073_split_012.html","./10073_split_013.html","./10073_split_014.html","./10073_split_015.html","./10073_split_016.html","./10073_split_017.html","./10073_split_018.html","./10073_split_019.html","./10073_split_020.html","./10073_split_021.html","./10073_split_022.html","./10073_split_023.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./titlepage.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/9498-1.png","./resources/cover.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {

@@ -1,13 +1,15 @@
 {
   "author": "Irena Dousková",
-  "identifier": "douskova-hrdy-budzes-e0964e5",
+  "edition": "beletrie",
+  "identifier": "douskova-hrdy-budzes-357c05c",
   "modified": "2021-09-21T12:42:00.813Z",
   "publisher": "Druhé město",
+  "publishershort": "mkp",
   "title": "Hrdý Budžes",
-  "revision": "e0964e5",
+  "revision": "357c05c",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 21:17:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638393424698
+    "date": "Wed Dec 01 2021 22:00:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638396040339
   },
   "documents": [
     {
@@ -513,9 +515,9 @@
   ],
   "totals": {
     "all": {
-      "words": 38049,
-      "chars": 211415,
-      "ideas": 825
+      "words": 38051,
+      "chars": 211426,
+      "ideas": 827
     },
     "chapters": {
       "words": 38044,

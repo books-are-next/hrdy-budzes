@@ -5,7 +5,9 @@
       "identifier": "386056d4-b46c-4da7-8c54-39beac83177e",
       "author": "Irena Dousková",
       "publisher": "Druhé město",
-      "modified": "2021-09-21T12:42:00.813Z"
+      "modified": "2021-09-21T12:42:00.813Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "toc1",
@@ -235,7 +237,7 @@
       "identifier": "386056d4-b46c-4da7-8c54-39beac83177e",
       "author": "Irena Dousková",
       "publisher": "Druhé město",
-      "modified": "2021-12-01T21:16:09.532Z"
+      "modified": "2021-12-01T21:59:49.257Z"
     },
     "chapters": [
       {
@@ -439,6 +441,6 @@
       "user": "books-are-next",
       "repo": "hrdy-budzes"
     },
-    "generatedAt": 1638393369982
+    "generatedAt": 1638395989657
   }
 }
