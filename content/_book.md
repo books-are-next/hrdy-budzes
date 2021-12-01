@@ -7,6 +7,8 @@ meta:
   author: Irena Dousková
   publisher: Druhé město
   modified: '2021-09-21T12:42:00.813Z'
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - titlepage.html
   - 10073_split_000.html
