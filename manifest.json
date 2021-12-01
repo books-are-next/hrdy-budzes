@@ -1,0 +1,526 @@
+{
+  "author": "Irena Dousková",
+  "identifier": "douskova-hrdy-budzes-e0964e5",
+  "modified": "2021-09-21T12:42:00.813Z",
+  "publisher": "Druhé město",
+  "title": "Hrdý Budžes",
+  "revision": "e0964e5",
+  "generatedAt": {
+    "date": "Wed Dec 01 2021 21:17:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638393424698
+  },
+  "documents": [
+    {
+      "title": "Hrdý Budžes",
+      "file": "titlepage.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "10073_split_000.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hrdý Budžes",
+      "file": "10073_split_000.html",
+      "words": 6,
+      "chars": 30,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 1,
+      "prev": "titlepage.html",
+      "next": "10073_split_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hrdý Budžes",
+      "file": "10073_split_001.html",
+      "words": 8,
+      "chars": 56,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "10073_split_000.html",
+      "next": "10073_split_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hrdý Budžes",
+      "file": "10073_split_002.html",
+      "words": 9,
+      "chars": 54,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 3,
+      "prev": "10073_split_001.html",
+      "next": "10073_split_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak byla Olinka mrtvá • Hrdý Budžes",
+      "file": "10073_split_003.html",
+      "words": 1641,
+      "chars": 8840,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 4,
+      "prev": "10073_split_002.html",
+      "next": "10073_split_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak byla Olinka mrtvá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak byl Pepíček v pekle • Hrdý Budžes",
+      "file": "10073_split_004.html",
+      "words": 1466,
+      "chars": 7956,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 5,
+      "prev": "10073_split_003.html",
+      "next": "10073_split_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak byl Pepíček v pekle",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hrdý Budžes",
+      "file": "10073_split_005.html",
+      "words": 1746,
+      "chars": 9606,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 6,
+      "prev": "10073_split_004.html",
+      "next": "10073_split_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak mě málem sežrali vlci • Hrdý Budžes",
+      "file": "10073_split_006.html",
+      "words": 1754,
+      "chars": 9524,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 7,
+      "prev": "10073_split_005.html",
+      "next": "10073_split_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak mě málem sežrali vlci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak jsem byla zblí zka u shnilýho vrabce  • Hrdý Budžes",
+      "file": "10073_split_007.html",
+      "words": 1921,
+      "chars": 10395,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 8,
+      "prev": "10073_split_006.html",
+      "next": "10073_split_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak jsem byla zblí zka u shnilýho vrabce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak se splašili sloni • Hrdý Budžes",
+      "file": "10073_split_008.html",
+      "words": 1841,
+      "chars": 10354,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 9,
+      "prev": "10073_split_007.html",
+      "next": "10073_split_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak se splašili sloni",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak jsem pošlapala mravence • Hrdý Budžes",
+      "file": "10073_split_009.html",
+      "words": 1972,
+      "chars": 11180,
+      "ideas": 90,
+      "role": "chapter",
+      "order": 10,
+      "prev": "10073_split_008.html",
+      "next": "10073_split_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak jsem pošlapala mravence",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak jsme vyhrabali partyzána • Hrdý Budžes",
+      "file": "10073_split_010.html",
+      "words": 2047,
+      "chars": 11616,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 11,
+      "prev": "10073_split_009.html",
+      "next": "10073_split_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak jsme vyhrabali partyzána",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak jsme měli k obědu vnitřnosti • Hrdý Budžes",
+      "file": "10073_split_011.html",
+      "words": 1414,
+      "chars": 7696,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 12,
+      "prev": "10073_split_010.html",
+      "next": "10073_split_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak jsme měli k obědu vnitřnosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak začalo to spiknutí • Hrdý Budžes",
+      "file": "10073_split_012.html",
+      "words": 1888,
+      "chars": 10595,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 13,
+      "prev": "10073_split_011.html",
+      "next": "10073_split_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak začalo to spiknutí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak jsem si našla kamarády • Hrdý Budžes",
+      "file": "10073_split_013.html",
+      "words": 2125,
+      "chars": 11718,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 14,
+      "prev": "10073_split_012.html",
+      "next": "10073_split_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak jsem si našla kamarády",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak Berenčičová skočila z okna • Hrdý Budžes",
+      "file": "10073_split_014.html",
+      "words": 2159,
+      "chars": 11862,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 15,
+      "prev": "10073_split_013.html",
+      "next": "10073_split_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak Berenčičová skočila z okna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak mě zradila Kačenka • Hrdý Budžes",
+      "file": "10073_split_015.html",
+      "words": 1915,
+      "chars": 10758,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 16,
+      "prev": "10073_split_014.html",
+      "next": "10073_split_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak mě zradila Kačenka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak mě nevzali do filmu a co se stalo šnekům • Hrdý Budžes",
+      "file": "10073_split_016.html",
+      "words": 2051,
+      "chars": 11201,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 17,
+      "prev": "10073_split_015.html",
+      "next": "10073_split_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak mě nevzali do filmu a co se stalo šnekům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak mě sežrali vlci   • Hrdý Budžes",
+      "file": "10073_split_017.html",
+      "words": 2044,
+      "chars": 11317,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 18,
+      "prev": "10073_split_016.html",
+      "next": "10073_split_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak mě sežrali vlci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak jsem nedostala slepák • Hrdý Budžes",
+      "file": "10073_split_018.html",
+      "words": 2242,
+      "chars": 12602,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 19,
+      "prev": "10073_split_017.html",
+      "next": "10073_split_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak jsem nedostala slepák",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak si pani Ňujorková vykloubila ruku • Hrdý Budžes",
+      "file": "10073_split_019.html",
+      "words": 1816,
+      "chars": 10168,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 20,
+      "prev": "10073_split_018.html",
+      "next": "10073_split_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak si pani Ňujorková vykloubila ruku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": " Jak Boženku Veverkovou snědly němkyně   • Hrdý Budžes",
+      "file": "10073_split_020.html",
+      "words": 1897,
+      "chars": 10654,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 21,
+      "prev": "10073_split_019.html",
+      "next": "10073_split_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak Boženku Veverkovou snědly němkyně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak jsme měli na schodech krev • Hrdý Budžes",
+      "file": "10073_split_021.html",
+      "words": 2122,
+      "chars": 12220,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 22,
+      "prev": "10073_split_020.html",
+      "next": "10073_split_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak jsme měli na schodech krev",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": " Jak to všechno dobře dopadlo • Hrdý Budžes",
+      "file": "10073_split_022.html",
+      "words": 1904,
+      "chars": 10606,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 23,
+      "prev": "10073_split_021.html",
+      "next": "10073_split_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak to všechno dobře dopadlo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hrdý Budžes",
+      "file": "10073_split_023.html",
+      "words": 56,
+      "chars": 377,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 24,
+      "prev": "10073_split_022.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 38049,
+      "chars": 211415,
+      "ideas": 825
+    },
+    "chapters": {
+      "words": 38044,
+      "chars": 211385,
+      "ideas": 822
+    }
+  }
+}

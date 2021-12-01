@@ -1,5 +1,0 @@
----
-title: ''
----
-
-![cover](cover.jpg)
