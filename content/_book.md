@@ -7,7 +7,7 @@ meta:
   author: Irena Dousková
   publisher: Druhé město
   modified: '2021-09-21T12:42:00.813Z'
-chapters:
+readingOrder:
   - titlepage.html
   - 10073_split_000.html
   - 10073_split_001.html
@@ -40,5 +40,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---
