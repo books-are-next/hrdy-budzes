@@ -2,4 +2,4 @@
 title: ''
 ---
 
-![cover](cover.jpg)
+![cover](./resources/cover.jpg)
