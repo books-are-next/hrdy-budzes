@@ -1,11 +1,14 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Hrdý Budžes",
       "identifier": "386056d4-b46c-4da7-8c54-39beac83177e",
       "author": "Irena Dousková",
       "publisher": "Druhé město",
-      "modified": "2021-09-21T12:42:00.813Z"
+      "modified": "2021-09-21T12:42:00.813Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "toc1",
@@ -442,3 +445,4 @@
     "generatedAt": 1632228121172
   }
 }
+
