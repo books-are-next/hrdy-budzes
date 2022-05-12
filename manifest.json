@@ -1,15 +1,45 @@
 {
-  "author": "Irena Dousková",
-  "edition": "beletrie",
-  "identifier": "douskova-hrdy-budzes-357c05c",
-  "modified": "2021-09-21T12:42:00.813Z",
-  "publisher": "Druhé město",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Hrdý Budžes",
-  "revision": "357c05c",
+  "author": "Irena Dousková",
+  "publisher": "Druhé město",
+  "edition": "beletrie",
+  "languageCode": "en",
+  "root": "main",
+  "identifier": "douskova-hrdy-budzes-7c78655",
+  "revision": "7c78655",
+  "readingOrder": [
+    "titlepage.html",
+    "10073_split_000.html",
+    "10073_split_001.html",
+    "10073_split_002.html",
+    "10073_split_003.html",
+    "10073_split_004.html",
+    "10073_split_005.html",
+    "10073_split_006.html",
+    "10073_split_007.html",
+    "10073_split_008.html",
+    "10073_split_009.html",
+    "10073_split_010.html",
+    "10073_split_011.html",
+    "10073_split_012.html",
+    "10073_split_013.html",
+    "10073_split_014.html",
+    "10073_split_015.html",
+    "10073_split_016.html",
+    "10073_split_017.html",
+    "10073_split_018.html",
+    "10073_split_019.html",
+    "10073_split_020.html",
+    "10073_split_021.html",
+    "10073_split_022.html",
+    "10073_split_023.html"
+  ],
   "generatedAt": {
-    "date": "Wed Dec 01 2021 22:00:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638396040339
+    "date": "Thu May 12 2022 10:36:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351797140
   },
   "documents": [
     {
@@ -93,7 +123,7 @@
       ]
     },
     {
-      "title": "Jak byla Olinka mrtvá • Hrdý Budžes",
+      "title": "Jak byla Olinka mrtvá",
       "file": "10073_split_003.html",
       "words": 1641,
       "chars": 8840,
@@ -113,7 +143,7 @@
       ]
     },
     {
-      "title": "Jak byl Pepíček v pekle • Hrdý Budžes",
+      "title": "Jak byl Pepíček v pekle",
       "file": "10073_split_004.html",
       "words": 1466,
       "chars": 7956,
@@ -153,7 +183,7 @@
       ]
     },
     {
-      "title": "Jak mě málem sežrali vlci • Hrdý Budžes",
+      "title": "Jak mě málem sežrali vlci",
       "file": "10073_split_006.html",
       "words": 1754,
       "chars": 9524,
@@ -173,7 +203,7 @@
       ]
     },
     {
-      "title": "Jak jsem byla zblí zka u shnilýho vrabce  • Hrdý Budžes",
+      "title": "Jak jsem byla zblí zka u shnilýho vrabce",
       "file": "10073_split_007.html",
       "words": 1921,
       "chars": 10395,
@@ -193,7 +223,7 @@
       ]
     },
     {
-      "title": "Jak se splašili sloni • Hrdý Budžes",
+      "title": "Jak se splašili sloni",
       "file": "10073_split_008.html",
       "words": 1841,
       "chars": 10354,
@@ -213,7 +243,7 @@
       ]
     },
     {
-      "title": "Jak jsem pošlapala mravence • Hrdý Budžes",
+      "title": "Jak jsem pošlapala mravence",
       "file": "10073_split_009.html",
       "words": 1972,
       "chars": 11180,
@@ -233,7 +263,7 @@
       ]
     },
     {
-      "title": "Jak jsme vyhrabali partyzána • Hrdý Budžes",
+      "title": "Jak jsme vyhrabali partyzána",
       "file": "10073_split_010.html",
       "words": 2047,
       "chars": 11616,
@@ -253,7 +283,7 @@
       ]
     },
     {
-      "title": "Jak jsme měli k obědu vnitřnosti • Hrdý Budžes",
+      "title": "Jak jsme měli k obědu vnitřnosti",
       "file": "10073_split_011.html",
       "words": 1414,
       "chars": 7696,
@@ -273,7 +303,7 @@
       ]
     },
     {
-      "title": "Jak začalo to spiknutí • Hrdý Budžes",
+      "title": "Jak začalo to spiknutí",
       "file": "10073_split_012.html",
       "words": 1888,
       "chars": 10595,
@@ -293,7 +323,7 @@
       ]
     },
     {
-      "title": "Jak jsem si našla kamarády • Hrdý Budžes",
+      "title": "Jak jsem si našla kamarády",
       "file": "10073_split_013.html",
       "words": 2125,
       "chars": 11718,
@@ -313,7 +343,7 @@
       ]
     },
     {
-      "title": "Jak Berenčičová skočila z okna • Hrdý Budžes",
+      "title": "Jak Berenčičová skočila z okna",
       "file": "10073_split_014.html",
       "words": 2159,
       "chars": 11862,
@@ -333,7 +363,7 @@
       ]
     },
     {
-      "title": "Jak mě zradila Kačenka • Hrdý Budžes",
+      "title": "Jak mě zradila Kačenka",
       "file": "10073_split_015.html",
       "words": 1915,
       "chars": 10758,
@@ -353,7 +383,7 @@
       ]
     },
     {
-      "title": "Jak mě nevzali do filmu a co se stalo šnekům • Hrdý Budžes",
+      "title": "Jak mě nevzali do filmu a co se stalo šnekům",
       "file": "10073_split_016.html",
       "words": 2051,
       "chars": 11201,
@@ -373,7 +403,7 @@
       ]
     },
     {
-      "title": "Jak mě sežrali vlci   • Hrdý Budžes",
+      "title": "Jak mě sežrali vlci",
       "file": "10073_split_017.html",
       "words": 2044,
       "chars": 11317,
@@ -393,7 +423,7 @@
       ]
     },
     {
-      "title": "Jak jsem nedostala slepák • Hrdý Budžes",
+      "title": "Jak jsem nedostala slepák",
       "file": "10073_split_018.html",
       "words": 2242,
       "chars": 12602,
@@ -413,7 +443,7 @@
       ]
     },
     {
-      "title": "Jak si pani Ňujorková vykloubila ruku • Hrdý Budžes",
+      "title": "Jak si pani Ňujorková vykloubila ruku",
       "file": "10073_split_019.html",
       "words": 1816,
       "chars": 10168,
@@ -433,7 +463,7 @@
       ]
     },
     {
-      "title": " Jak Boženku Veverkovou snědly němkyně   • Hrdý Budžes",
+      "title": "Jak Boženku Veverkovou snědly němkyně",
       "file": "10073_split_020.html",
       "words": 1897,
       "chars": 10654,
@@ -453,7 +483,7 @@
       ]
     },
     {
-      "title": "Jak jsme měli na schodech krev • Hrdý Budžes",
+      "title": "Jak jsme měli na schodech krev",
       "file": "10073_split_021.html",
       "words": 2122,
       "chars": 12220,
@@ -473,7 +503,7 @@
       ]
     },
     {
-      "title": " Jak to všechno dobře dopadlo • Hrdý Budžes",
+      "title": "Jak to všechno dobře dopadlo",
       "file": "10073_split_022.html",
       "words": 1904,
       "chars": 10606,

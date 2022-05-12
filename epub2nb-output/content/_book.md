@@ -1,6 +1,8 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
+languageCode: en
 meta:
   title: Hrdý Budžes
   identifier: 386056d4-b46c-4da7-8c54-39beac83177e

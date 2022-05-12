@@ -236,8 +236,7 @@
       "title": "Hrdý Budžes",
       "identifier": "386056d4-b46c-4da7-8c54-39beac83177e",
       "author": "Irena Dousková",
-      "publisher": "Druhé město",
-      "modified": "2021-12-01T21:59:49.257Z"
+      "publisher": "Druhé město"
     },
     "chapters": [
       {
@@ -441,6 +440,6 @@
       "user": "books-are-next",
       "repo": "hrdy-budzes"
     },
-    "generatedAt": 1638395989657
+    "generatedAt": 1652351330531
   }
 }
