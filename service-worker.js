@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-7c78655';
+const CACHE = 'cache-92854dd';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./10073_split_000.html","./10073_split_001.html","./10073_split_002.html","./10073_split_003.html","./10073_split_004.html","./10073_split_005.html","./10073_split_006.html","./10073_split_007.html","./10073_split_008.html","./10073_split_009.html","./10073_split_010.html","./10073_split_011.html","./10073_split_012.html","./10073_split_013.html","./10073_split_014.html","./10073_split_015.html","./10073_split_016.html","./10073_split_017.html","./10073_split_018.html","./10073_split_019.html","./10073_split_020.html","./10073_split_021.html","./10073_split_022.html","./10073_split_023.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./titlepage.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/9498-1.png","./resources/cover.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./10073_split_000.html","./10073_split_002.html","./10073_split_001.html","./10073_split_003.html","./10073_split_004.html","./10073_split_005.html","./10073_split_006.html","./10073_split_007.html","./10073_split_009.html","./10073_split_008.html","./10073_split_010.html","./10073_split_011.html","./10073_split_012.html","./10073_split_013.html","./10073_split_014.html","./10073_split_015.html","./10073_split_016.html","./10073_split_017.html","./10073_split_018.html","./10073_split_019.html","./10073_split_020.html","./10073_split_021.html","./10073_split_022.html","./10073_split_023.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./titlepage.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/9498-1.png","./resources/cover.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

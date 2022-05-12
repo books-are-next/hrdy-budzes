@@ -8,9 +8,10 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "douskova-hrdy-budzes-7c78655",
-  "revision": "7c78655",
+  "identifier": "douskova-hrdy-budzes-92854dd",
+  "revision": "92854dd",
   "readingOrder": [
+    "promo.html",
     "titlepage.html",
     "10073_split_000.html",
     "10073_split_001.html",
@@ -38,10 +39,22 @@
     "10073_split_023.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:36:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351797140
+    "date": "Thu May 12 2022 15:11:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652368269722
   },
   "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "titlepage.html",
+      "toc": []
+    },
     {
       "title": "Hrdý Budžes",
       "file": "titlepage.html",
@@ -49,8 +62,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 0,
-      "prev": null,
+      "order": 1,
+      "prev": "promo.html",
       "next": "10073_split_000.html",
       "toc": [
         {
@@ -69,7 +82,7 @@
       "chars": 30,
       "ideas": 4,
       "role": "chapter",
-      "order": 1,
+      "order": 2,
       "prev": "titlepage.html",
       "next": "10073_split_001.html",
       "toc": [
@@ -89,7 +102,7 @@
       "chars": 56,
       "ideas": 3,
       "role": "chapter",
-      "order": 2,
+      "order": 3,
       "prev": "10073_split_000.html",
       "next": "10073_split_002.html",
       "toc": [
@@ -109,7 +122,7 @@
       "chars": 54,
       "ideas": 3,
       "role": "chapter",
-      "order": 3,
+      "order": 4,
       "prev": "10073_split_001.html",
       "next": "10073_split_003.html",
       "toc": [
@@ -129,7 +142,7 @@
       "chars": 8840,
       "ideas": 21,
       "role": "chapter",
-      "order": 4,
+      "order": 5,
       "prev": "10073_split_002.html",
       "next": "10073_split_004.html",
       "toc": [
@@ -149,7 +162,7 @@
       "chars": 7956,
       "ideas": 19,
       "role": "chapter",
-      "order": 5,
+      "order": 6,
       "prev": "10073_split_003.html",
       "next": "10073_split_005.html",
       "toc": [
@@ -169,7 +182,7 @@
       "chars": 9606,
       "ideas": 39,
       "role": "chapter",
-      "order": 6,
+      "order": 7,
       "prev": "10073_split_004.html",
       "next": "10073_split_006.html",
       "toc": [
@@ -189,7 +202,7 @@
       "chars": 9524,
       "ideas": 43,
       "role": "chapter",
-      "order": 7,
+      "order": 8,
       "prev": "10073_split_005.html",
       "next": "10073_split_007.html",
       "toc": [
@@ -209,7 +222,7 @@
       "chars": 10395,
       "ideas": 34,
       "role": "chapter",
-      "order": 8,
+      "order": 9,
       "prev": "10073_split_006.html",
       "next": "10073_split_008.html",
       "toc": [
@@ -229,7 +242,7 @@
       "chars": 10354,
       "ideas": 31,
       "role": "chapter",
-      "order": 9,
+      "order": 10,
       "prev": "10073_split_007.html",
       "next": "10073_split_009.html",
       "toc": [
@@ -249,7 +262,7 @@
       "chars": 11180,
       "ideas": 90,
       "role": "chapter",
-      "order": 10,
+      "order": 11,
       "prev": "10073_split_008.html",
       "next": "10073_split_010.html",
       "toc": [
@@ -269,7 +282,7 @@
       "chars": 11616,
       "ideas": 57,
       "role": "chapter",
-      "order": 11,
+      "order": 12,
       "prev": "10073_split_009.html",
       "next": "10073_split_011.html",
       "toc": [
@@ -289,7 +302,7 @@
       "chars": 7696,
       "ideas": 34,
       "role": "chapter",
-      "order": 12,
+      "order": 13,
       "prev": "10073_split_010.html",
       "next": "10073_split_012.html",
       "toc": [
@@ -309,7 +322,7 @@
       "chars": 10595,
       "ideas": 33,
       "role": "chapter",
-      "order": 13,
+      "order": 14,
       "prev": "10073_split_011.html",
       "next": "10073_split_013.html",
       "toc": [
@@ -329,7 +342,7 @@
       "chars": 11718,
       "ideas": 39,
       "role": "chapter",
-      "order": 14,
+      "order": 15,
       "prev": "10073_split_012.html",
       "next": "10073_split_014.html",
       "toc": [
@@ -349,7 +362,7 @@
       "chars": 11862,
       "ideas": 42,
       "role": "chapter",
-      "order": 15,
+      "order": 16,
       "prev": "10073_split_013.html",
       "next": "10073_split_015.html",
       "toc": [
@@ -369,7 +382,7 @@
       "chars": 10758,
       "ideas": 27,
       "role": "chapter",
-      "order": 16,
+      "order": 17,
       "prev": "10073_split_014.html",
       "next": "10073_split_016.html",
       "toc": [
@@ -389,7 +402,7 @@
       "chars": 11201,
       "ideas": 35,
       "role": "chapter",
-      "order": 17,
+      "order": 18,
       "prev": "10073_split_015.html",
       "next": "10073_split_017.html",
       "toc": [
@@ -409,7 +422,7 @@
       "chars": 11317,
       "ideas": 27,
       "role": "chapter",
-      "order": 18,
+      "order": 19,
       "prev": "10073_split_016.html",
       "next": "10073_split_018.html",
       "toc": [
@@ -429,7 +442,7 @@
       "chars": 12602,
       "ideas": 43,
       "role": "chapter",
-      "order": 19,
+      "order": 20,
       "prev": "10073_split_017.html",
       "next": "10073_split_019.html",
       "toc": [
@@ -449,7 +462,7 @@
       "chars": 10168,
       "ideas": 45,
       "role": "chapter",
-      "order": 20,
+      "order": 21,
       "prev": "10073_split_018.html",
       "next": "10073_split_020.html",
       "toc": [
@@ -469,7 +482,7 @@
       "chars": 10654,
       "ideas": 37,
       "role": "chapter",
-      "order": 21,
+      "order": 22,
       "prev": "10073_split_019.html",
       "next": "10073_split_021.html",
       "toc": [
@@ -489,7 +502,7 @@
       "chars": 12220,
       "ideas": 52,
       "role": "chapter",
-      "order": 22,
+      "order": 23,
       "prev": "10073_split_020.html",
       "next": "10073_split_022.html",
       "toc": [
@@ -509,7 +522,7 @@
       "chars": 10606,
       "ideas": 53,
       "role": "chapter",
-      "order": 23,
+      "order": 24,
       "prev": "10073_split_021.html",
       "next": "10073_split_023.html",
       "toc": [
@@ -529,7 +542,7 @@
       "chars": 377,
       "ideas": 11,
       "role": "chapter",
-      "order": 24,
+      "order": 25,
       "prev": "10073_split_022.html",
       "next": null,
       "toc": [

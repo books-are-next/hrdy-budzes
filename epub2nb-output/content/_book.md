@@ -12,6 +12,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
+  - promo.html
   - titlepage.html
   - 10073_split_000.html
   - 10073_split_001.html
