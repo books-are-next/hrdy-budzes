@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "douskova-hrdy-budzes-92854dd",
-  "revision": "92854dd",
+  "identifier": "douskova-hrdy-budzes-e7c8451",
+  "revision": "e7c8451",
   "readingOrder": [
     "promo.html",
     "titlepage.html",
@@ -39,8 +39,8 @@
     "10073_split_023.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 15:11:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652368269722
+    "date": "Fri Jun 10 2022 17:50:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883444569
   },
   "documents": [
     {
@@ -58,9 +58,9 @@
     {
       "title": "Hrdý Budžes",
       "file": "titlepage.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -558,14 +558,14 @@
   ],
   "totals": {
     "all": {
-      "words": 38051,
+      "words": 38052,
       "chars": 211426,
-      "ideas": 827
+      "ideas": 828
     },
     "chapters": {
-      "words": 38044,
+      "words": 38045,
       "chars": 211385,
-      "ideas": 822
+      "ideas": 823
     }
   }
 }
