@@ -30,204 +30,210 @@
     },
     "structure": [
       {
-        "filename": "titlepage.md",
-        "xhtml": "titlepage.xhtml",
-        "id": 0,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_000.md",
-        "xhtml": "10073_split_000.html",
-        "id": 1,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_001.md",
-        "xhtml": "10073_split_001.html",
-        "id": 2,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_002.md",
-        "xhtml": "10073_split_002.html",
-        "id": 3,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_003.md",
-        "xhtml": "10073_split_003.html",
-        "id": 4,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_004.md",
-        "xhtml": "10073_split_004.html",
-        "id": 5,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_005.md",
-        "xhtml": "10073_split_005.html",
-        "id": 6,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_006.md",
-        "xhtml": "10073_split_006.html",
-        "id": 7,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_007.md",
-        "xhtml": "10073_split_007.html",
-        "id": 8,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_008.md",
-        "xhtml": "10073_split_008.html",
-        "id": 9,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_009.md",
-        "xhtml": "10073_split_009.html",
-        "id": 10,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_010.md",
-        "xhtml": "10073_split_010.html",
-        "id": 11,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_011.md",
-        "xhtml": "10073_split_011.html",
-        "id": 12,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_012.md",
-        "xhtml": "10073_split_012.html",
-        "id": 13,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_013.md",
-        "xhtml": "10073_split_013.html",
-        "id": 14,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_014.md",
-        "xhtml": "10073_split_014.html",
-        "id": 15,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_015.md",
-        "xhtml": "10073_split_015.html",
-        "id": 16,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_016.md",
-        "xhtml": "10073_split_016.html",
-        "id": 17,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_017.md",
-        "xhtml": "10073_split_017.html",
-        "id": 18,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_018.md",
-        "xhtml": "10073_split_018.html",
-        "id": 19,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_019.md",
-        "xhtml": "10073_split_019.html",
-        "id": 20,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_020.md",
-        "xhtml": "10073_split_020.html",
-        "id": 21,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_021.md",
-        "xhtml": "10073_split_021.html",
-        "id": 22,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_022.md",
-        "xhtml": "10073_split_022.html",
-        "id": 23,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
-      },
-      {
-        "filename": "10073_split_023.md",
-        "xhtml": "10073_split_023.html",
-        "id": 24,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "titlepage.md",
+            "xhtml": "titlepage.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_000.md",
+            "xhtml": "10073_split_000.html",
+            "id": 1,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_001.md",
+            "xhtml": "10073_split_001.html",
+            "id": 2,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_002.md",
+            "xhtml": "10073_split_002.html",
+            "id": 3,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_003.md",
+            "xhtml": "10073_split_003.html",
+            "id": 4,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_004.md",
+            "xhtml": "10073_split_004.html",
+            "id": 5,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_005.md",
+            "xhtml": "10073_split_005.html",
+            "id": 6,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_006.md",
+            "xhtml": "10073_split_006.html",
+            "id": 7,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_007.md",
+            "xhtml": "10073_split_007.html",
+            "id": 8,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_008.md",
+            "xhtml": "10073_split_008.html",
+            "id": 9,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_009.md",
+            "xhtml": "10073_split_009.html",
+            "id": 10,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_010.md",
+            "xhtml": "10073_split_010.html",
+            "id": 11,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_011.md",
+            "xhtml": "10073_split_011.html",
+            "id": 12,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_012.md",
+            "xhtml": "10073_split_012.html",
+            "id": 13,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_013.md",
+            "xhtml": "10073_split_013.html",
+            "id": 14,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_014.md",
+            "xhtml": "10073_split_014.html",
+            "id": 15,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_015.md",
+            "xhtml": "10073_split_015.html",
+            "id": 16,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_016.md",
+            "xhtml": "10073_split_016.html",
+            "id": 17,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_017.md",
+            "xhtml": "10073_split_017.html",
+            "id": 18,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_018.md",
+            "xhtml": "10073_split_018.html",
+            "id": 19,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_019.md",
+            "xhtml": "10073_split_019.html",
+            "id": 20,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_020.md",
+            "xhtml": "10073_split_020.html",
+            "id": 21,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_021.md",
+            "xhtml": "10073_split_021.html",
+            "id": 22,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_022.md",
+            "xhtml": "10073_split_022.html",
+            "id": 23,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          },
+          {
+            "filename": "10073_split_023.md",
+            "xhtml": "10073_split_023.html",
+            "id": 24,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true
+          }
+        ]
       }
     ]
   },
@@ -440,6 +446,6 @@
       "user": "books-are-next",
       "repo": "hrdy-budzes"
     },
-    "generatedAt": 1654948417425
+    "generatedAt": 1655156791714
   }
 }
