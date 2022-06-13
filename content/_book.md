@@ -38,7 +38,10 @@ readingOrder:
   - 10073_split_021.html
   - 10073_split_022.html
   - 10073_split_023.html
-tocBase: []
+tocBase:
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
