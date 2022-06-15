@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "douskova-hrdy-budzes-22aa64e",
-  "revision": "22aa64e",
+  "identifier": "douskova-hrdy-budzes-494defc",
+  "revision": "494defc",
   "readingOrder": [
     "promo.html",
     "titlepage.html",
@@ -39,8 +39,8 @@
     "10073_split_023.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:54:47 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157287334
+    "date": "Wed Jun 15 2022 05:50:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272242065
   },
   "documents": [
     {
