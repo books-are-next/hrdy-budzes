@@ -10,7 +10,8 @@ meta:
   publisher: Druhé město
   modified: '2021-09-21T12:42:00.813Z'
   publisherShort: mkp
-  edition: beletrie
+  edition: drama
+  contentType: drama
 readingOrder:
   - promo.html
   - titlepage.html
