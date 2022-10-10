@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "en",
   "root": "main",
-  "identifier": "douskova-hrdy-budzes-57fa244",
-  "revision": "57fa244",
+  "identifier": "douskova-hrdy-budzes-275060b",
+  "revision": "275060b",
   "readingOrder": [
     "promo.html",
     "titlepage.html",
@@ -39,8 +39,8 @@
     "10073_split_023.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:00:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151206756
+    "date": "Mon Oct 10 2022 15:52:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417151104
   },
   "documents": [
     {
